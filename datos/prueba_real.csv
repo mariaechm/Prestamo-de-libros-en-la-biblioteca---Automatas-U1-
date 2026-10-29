@@ -1,0 +1,279 @@
+id_evento,fecha_hora,id_sesion,actor,evento,simbolo,ejemplar,titulo,tipo_item,coleccion,origen
+1819,2013-09-28 06:07:00,S-0401,U-ED7A,RESERVAR,R,0010048299977,Bessie Smith,jcbk,ncb,sintético
+1820,2013-09-30 10:07:00,S-0401,U-ED7A,PRESTAR,P,0010048299977,Bessie Smith,jcbk,ncb,real
+1821,2013-10-20 14:35:51,S-0401,U-ED7A,DEVOLVER,D,0010048299977,Bessie Smith,jcbk,ncb,sintético
+1822,2013-10-21 14:35:51,S-0401,U-ED7A,MULTA,M,0010048299977,Bessie Smith,jcbk,ncb,sintético
+1823,2013-10-22 14:35:51,S-0401,U-ED7A,RESERVAR,R,0010048299977,Bessie Smith,jcbk,ncb,sintético
+1824,2012-05-17 18:48:00,S-0402,U-DE56,PRESTAR,P,0010076012193,turning tide helmsmans winged comet,acbk,nanew,real
+1825,2012-06-01 20:32:30,S-0402,U-DE56,RENOVAR,N,0010076012193,turning tide helmsmans winged comet,acbk,nanew,sintético
+1826,2012-06-16 22:17:01,S-0402,U-DE56,DEVOLVER,D,0010076012193,turning tide helmsmans winged comet,acbk,nanew,sintético
+1827,2013-06-23 15:50:00,S-0403,U-4F71,PRESTAR,P,0010068356616,Bernard Shaws Caesar and Cleopatra,acdvd,nadvd,real
+1828,2013-07-17 01:47:42,S-0403,U-4F71,DEVOLVER,D,0010068356616,Bernard Shaws Caesar and Cleopatra,acdvd,nadvd,sintético
+1829,2013-07-18 01:47:42,S-0403,U-4F71,MULTA,M,0010068356616,Bernard Shaws Caesar and Cleopatra,acdvd,nadvd,sintético
+1830,2013-07-19 01:47:42,S-0403,U-4F71,PAGAR_MULTA,G,0010068356616,Bernard Shaws Caesar and Cleopatra,acdvd,nadvd,sintético
+1831,2013-09-28 16:48:00,S-0404,U-7D01,PRESTAR,P,0010068323368,American,acdvd,nadvd,real
+1832,2013-10-01 12:11:59,S-0404,U-7D01,RENOVAR,N,0010068323368,American,acdvd,nadvd,sintético
+1833,2013-10-04 07:35:59,S-0404,U-7D01,RENOVAR,N,0010068323368,American,acdvd,nadvd,sintético
+1834,2013-10-07 02:59:59,S-0404,U-7D01,DEVOLVER,D,0010068323368,American,acdvd,nadvd,sintético
+1835,2012-12-28 13:44:00,S-0405,U-2322,RESERVAR,R,0010075268267,X men Marvel animated series,acdvd,nadvd,sintético
+1836,2012-12-28 14:44:00,S-0405,U-2322,PRESTAR,P,0010075268267,X men Marvel animated series,acdvd,nadvd,real
+1837,2013-01-09 01:57:13,S-0405,U-2322,RENOVAR,N,0010075268267,X men Marvel animated series,acdvd,nadvd,sintético
+1838,2013-01-20 13:10:26,S-0405,U-2322,RENOVAR,N,0010075268267,X men Marvel animated series,acdvd,nadvd,sintético
+1839,2013-02-01 00:23:39,S-0405,U-2322,DEVOLVER,D,0010075268267,X men Marvel animated series,acdvd,nadvd,sintético
+1840,2012-05-30 11:31:00,S-0406,U-50AB,PRESTAR,P,0010066993360,Brighton rock,acdvd,nadvd,real
+1841,2012-06-05 06:59:40,S-0406,U-50AB,RENOVAR,N,0010066993360,Brighton rock,acdvd,nadvd,sintético
+1842,2012-06-11 02:28:20,S-0406,U-50AB,RENOVAR,N,0010066993360,Brighton rock,acdvd,nadvd,sintético
+1843,2012-06-16 21:57:00,S-0406,U-50AB,DEVOLVER,D,0010066993360,Brighton rock,acdvd,nadvd,sintético
+1844,2012-06-17 21:57:00,S-0406,U-50AB,MULTA,M,0010066993360,Brighton rock,acdvd,nadvd,sintético
+1845,2012-06-18 21:57:00,S-0406,U-50AB,RESERVAR,R,0010066993360,Brighton rock,acdvd,nadvd,sintético
+1846,2011-01-20 18:58:00,S-0407,U-6FB6,PRESTAR,P,0010040600859,Blackbird a childhood lost and found,acbk,canf,real
+1847,2011-02-09 23:37:21,S-0407,U-6FB6,DEVOLVER,D,0010040600859,Blackbird a childhood lost and found,acbk,canf,sintético
+1848,2011-02-10 23:37:21,S-0407,U-6FB6,MULTA,M,0010040600859,Blackbird a childhood lost and found,acbk,canf,sintético
+1849,2011-02-11 23:37:21,S-0407,U-6FB6,PAGAR_MULTA,G,0010040600859,Blackbird a childhood lost and found,acbk,canf,sintético
+1850,2013-10-11 06:44:00,S-0408,U-1B2E,RESERVAR,R,0010073975541,Ten apples up on top,jcbk,ncrdr,sintético
+1851,2013-10-13 16:44:00,S-0408,U-1B2E,PRESTAR,P,0010073975541,Ten apples up on top,jcbk,ncrdr,real
+1852,2013-11-06 14:30:53,S-0408,U-1B2E,DEVOLVER,D,0010073975541,Ten apples up on top,jcbk,ncrdr,sintético
+1853,2012-03-15 19:33:00,S-0409,U-980B,PRESTAR,P,0010069981859,Walt Disneys Uncle Scrooge No 380,jcbk,ncnf,real
+1854,2012-03-23 05:29:12,S-0409,U-980B,RENOVAR,N,0010069981859,Walt Disneys Uncle Scrooge No 380,jcbk,ncnf,sintético
+1855,2012-03-30 15:25:24,S-0409,U-980B,RENOVAR,N,0010069981859,Walt Disneys Uncle Scrooge No 380,jcbk,ncnf,sintético
+1856,2012-04-07 01:21:37,S-0409,U-980B,DEVOLVER,D,0010069981859,Walt Disneys Uncle Scrooge No 380,jcbk,ncnf,sintético
+1857,2012-12-25 18:37:00,S-0410,U-F169,DEVOLVER,D,0010076239002,Tubes a journey to the center of the Internet,acbk,nanf,sintético
+1858,2012-12-26 05:37:00,S-0410,U-F169,RESERVAR,R,0010076239002,Tubes a journey to the center of the Internet,acbk,nanf,sintético
+1859,2012-12-27 13:37:00,S-0410,U-F169,PRESTAR,P,0010076239002,Tubes a journey to the center of the Internet,acbk,nanf,real
+1860,2013-01-01 21:00:03,S-0410,U-F169,RENOVAR,N,0010076239002,Tubes a journey to the center of the Internet,acbk,nanf,sintético
+1861,2013-01-07 04:23:06,S-0410,U-F169,RENOVAR,N,0010076239002,Tubes a journey to the center of the Internet,acbk,nanf,sintético
+1862,2013-01-12 11:46:09,S-0410,U-F169,DEVOLVER,D,0010076239002,Tubes a journey to the center of the Internet,acbk,nanf,sintético
+1863,2013-11-14 12:40:00,S-0411,U-F01B,PRESTAR,P,0010079568092,On a farm,jcbk,ncrdr,real
+1864,2013-11-18 21:56:23,S-0411,U-F01B,RENOVAR,N,0010079568092,On a farm,jcbk,ncrdr,sintético
+1865,2013-11-23 07:12:47,S-0411,U-F01B,RENOVAR,N,0010079568092,On a farm,jcbk,ncrdr,sintético
+1866,2013-11-27 16:29:11,S-0411,U-F01B,DEVOLVER,D,0010079568092,On a farm,jcbk,ncrdr,sintético
+1867,2013-11-01 13:54:00,S-0412,U-0094,PRESTAR,P,0010079020938,Life of Pi,acdvd,cadvd,real
+1868,2013-11-03 23:58:14,S-0412,U-0094,RENOVAR,N,0010079020938,Life of Pi,acdvd,cadvd,sintético
+1869,2013-11-06 10:02:29,S-0412,U-0094,RENOVAR,N,0010079020938,Life of Pi,acdvd,cadvd,sintético
+1870,2013-11-08 20:06:43,S-0412,U-0094,DEVOLVER,D,0010079020938,Life of Pi,acdvd,cadvd,sintético
+1871,2012-07-02 14:24:00,S-0413,U-3CB8,RESERVAR,R,0010070501464,scribes from Alexandria,jcbk,ccfic,sintético
+1872,2012-07-05 11:24:00,S-0413,U-3CB8,PRESTAR,P,0010070501464,scribes from Alexandria,jcbk,ccfic,real
+1873,2012-07-14 07:06:13,S-0413,U-3CB8,RENOVAR,N,0010070501464,scribes from Alexandria,jcbk,ccfic,sintético
+1874,2012-07-23 02:48:26,S-0413,U-3CB8,RENOVAR,N,0010070501464,scribes from Alexandria,jcbk,ccfic,sintético
+1875,2012-07-31 22:30:40,S-0413,U-3CB8,DEVOLVER,D,0010070501464,scribes from Alexandria,jcbk,ccfic,sintético
+1876,2012-06-23 23:36:00,S-0414,U-03DD,RESERVAR,R,0010057920075,X marks the spot,jcbk,ncrdr,sintético
+1877,2012-06-25 17:36:00,S-0414,U-03DD,PRESTAR,P,0010057920075,X marks the spot,jcbk,ncrdr,real
+1878,2012-07-05 12:04:13,S-0414,U-03DD,DEVOLVER,D,0010057920075,X marks the spot,jcbk,ncrdr,sintético
+1879,2012-06-23 09:34:00,S-0415,U-37F5,RESERVAR,R,0010046572169,Genuine authentic the real life of Ralph Lauren,acbk,canf,sintético
+1880,2012-06-24 15:34:00,S-0415,U-37F5,PRESTAR,P,0010046572169,Genuine authentic the real life of Ralph Lauren,acbk,canf,real
+1881,2012-06-26 14:49:04,S-0415,U-37F5,RENOVAR,N,0010046572169,Genuine authentic the real life of Ralph Lauren,acbk,canf,sintético
+1882,2012-06-28 14:04:09,S-0415,U-37F5,RENOVAR,N,0010046572169,Genuine authentic the real life of Ralph Lauren,acbk,canf,sintético
+1883,2012-06-30 13:19:14,S-0415,U-37F5,DEVOLVER,D,0010046572169,Genuine authentic the real life of Ralph Lauren,acbk,canf,sintético
+1884,2012-07-01 13:19:14,S-0415,U-37F5,MULTA,M,0010046572169,Genuine authentic the real life of Ralph Lauren,acbk,canf,sintético
+1885,2012-07-02 13:19:14,S-0415,U-37F5,PAGAR_MULTA,G,0010046572169,Genuine authentic the real life of Ralph Lauren,acbk,canf,sintético
+1886,2012-02-28 16:25:00,S-0416,U-2278,RESERVAR,R,0010055129398,Palindromes,acdvd,nadvd,sintético
+1887,2012-03-01 14:25:00,S-0416,U-2278,PRESTAR,P,0010055129398,Palindromes,acdvd,nadvd,real
+1888,2012-03-11 22:07:02,S-0416,U-2278,RENOVAR,N,0010055129398,Palindromes,acdvd,nadvd,sintético
+1889,2012-03-22 05:49:05,S-0416,U-2278,DEVOLVER,D,0010055129398,Palindromes,acdvd,nadvd,sintético
+1890,2012-03-23 05:49:05,S-0416,U-2278,MULTA,M,0010055129398,Palindromes,acdvd,nadvd,sintético
+1891,2012-03-24 05:49:05,S-0416,U-2278,RESERVAR,R,0010055129398,Palindromes,acdvd,nadvd,sintético
+1892,2011-08-24 17:39:00,S-0417,U-03DD,PRESTAR,P,0010072691669,Best lesbian romance 2011,acbk,cafic,real
+1893,2011-09-22 13:15:43,S-0417,U-03DD,DEVOLVER,D,0010072691669,Best lesbian romance 2011,acbk,cafic,sintético
+1894,2011-09-23 13:15:43,S-0417,U-03DD,MULTA,M,0010072691669,Best lesbian romance 2011,acbk,cafic,sintético
+1895,2011-09-24 13:15:43,S-0417,U-03DD,PAGAR_MULTA,G,0010072691669,Best lesbian romance 2011,acbk,cafic,sintético
+1896,2012-10-14 13:17:00,S-0418,U-9696,PRESTAR,P,0010073602400,Rules of civility,acbk,nafic,real
+1897,2012-10-16 07:43:36,S-0418,U-9696,RENOVAR,N,0010073602400,Rules of civility,acbk,nafic,sintético
+1898,2012-10-18 02:10:13,S-0418,U-9696,RENOVAR,N,0010073602400,Rules of civility,acbk,nafic,sintético
+1899,2012-10-19 20:36:49,S-0418,U-9696,DEVOLVER,D,0010073602400,Rules of civility,acbk,nafic,sintético
+1900,2012-05-15 03:37:00,S-0419,U-66EA,RESERVAR,R,0010057253741,Venus doom,accd,nacd,sintético
+1901,2012-05-16 12:37:00,S-0419,U-66EA,PRESTAR,P,0010057253741,Venus doom,accd,nacd,real
+1902,2012-06-19 13:39:38,S-0419,U-66EA,DEVOLVER,D,0010057253741,Venus doom,accd,nacd,sintético
+1903,2013-01-04 13:49:00,S-0420,U-072A,PRESTAR,P,0010049367021,Shaolin white crane hard soft qigong,acdvd,nadvdnf,real
+1904,2013-01-21 03:38:17,S-0420,U-072A,RENOVAR,N,0010049367021,Shaolin white crane hard soft qigong,acdvd,nadvdnf,sintético
+1905,2013-02-06 17:27:34,S-0420,U-072A,DEVOLVER,D,0010049367021,Shaolin white crane hard soft qigong,acdvd,nadvdnf,sintético
+1906,2011-10-25 03:04:00,S-0421,U-4867,RESERVAR,R,0010059645514,miracle of fasting proven through history for physical mental and spiritual rejuvenation,acbk,nanf,sintético
+1907,2011-10-27 10:04:00,S-0421,U-4867,PRESTAR,P,0010059645514,miracle of fasting proven through history for physical mental and spiritual rejuvenation,acbk,nanf,real
+1908,2011-11-15 18:12:00,S-0421,U-4867,DEVOLVER,D,0010059645514,miracle of fasting proven through history for physical mental and spiritual rejuvenation,acbk,nanf,sintético
+1909,2013-12-15 10:53:00,S-0422,U-58F7,RESERVAR,R,0010079445234,Anima,acbk,naln,sintético
+1910,2013-12-15 11:53:00,S-0422,U-58F7,PRESTAR,P,0010079445234,Anima,acbk,naln,real
+1911,2014-01-13 22:26:16,S-0422,U-58F7,DEVOLVER,D,0010079445234,Anima,acbk,naln,sintético
+1912,2014-01-14 22:26:16,S-0422,U-58F7,MULTA,M,0010079445234,Anima,acbk,naln,sintético
+1913,2014-01-15 22:26:16,S-0422,U-58F7,RESERVAR,R,0010079445234,Anima,acbk,naln,sintético
+1914,2011-06-19 16:45:00,S-0423,U-5A28,PRESTAR,P,0010067491224,Women and children first,accd,nacd,real
+1915,2011-07-03 04:33:53,S-0423,U-5A28,DEVOLVER,D,0010067491224,Women and children first,accd,nacd,sintético
+1916,2011-07-04 04:33:53,S-0423,U-5A28,MULTA,M,0010067491224,Women and children first,accd,nacd,sintético
+1917,2011-07-05 04:33:53,S-0423,U-5A28,RESERVAR,R,0010067491224,Women and children first,accd,nacd,sintético
+1918,2013-11-15 11:43:00,S-0424,U-318F,PRESTAR,P,0010081690751,frozen ground,acdvd,cadvd,real
+1919,2013-11-18 02:55:56,S-0424,U-318F,RENOVAR,N,0010081690751,frozen ground,acdvd,cadvd,sintético
+1920,2013-11-20 18:08:52,S-0424,U-318F,DEVOLVER,D,0010081690751,frozen ground,acdvd,cadvd,sintético
+1921,2012-08-09 12:56:00,S-0425,U-7674,RESERVAR,R,0010057163833,Roald Dahls The BFG Big friendly giant,jcdvd,ncdvd,sintético
+1922,2012-08-09 18:56:00,S-0425,U-7674,PRESTAR,P,0010057163833,Roald Dahls The BFG Big friendly giant,jcdvd,ncdvd,real
+1923,2012-08-18 10:26:10,S-0425,U-7674,RENOVAR,N,0010057163833,Roald Dahls The BFG Big friendly giant,jcdvd,ncdvd,sintético
+1924,2012-08-27 01:56:21,S-0425,U-7674,RENOVAR,N,0010057163833,Roald Dahls The BFG Big friendly giant,jcdvd,ncdvd,sintético
+1925,2012-09-04 17:26:32,S-0425,U-7674,DEVOLVER,D,0010057163833,Roald Dahls The BFG Big friendly giant,jcdvd,ncdvd,sintético
+1926,2012-09-05 17:26:32,S-0425,U-7674,MULTA,M,0010057163833,Roald Dahls The BFG Big friendly giant,jcdvd,ncdvd,sintético
+1927,2012-09-06 17:26:32,S-0425,U-7674,PAGAR_MULTA,G,0010057163833,Roald Dahls The BFG Big friendly giant,jcdvd,ncdvd,sintético
+1928,2011-04-06 14:04:00,S-0426,U-DA7E,PRESTAR,P,0010069978830,50 best jobs for your personality,acbk,najob,real
+1929,2011-04-08 09:30:46,S-0426,U-DA7E,RENOVAR,N,0010069978830,50 best jobs for your personality,acbk,najob,sintético
+1930,2011-04-10 04:57:33,S-0426,U-DA7E,RENOVAR,N,0010069978830,50 best jobs for your personality,acbk,najob,sintético
+1931,2011-04-12 00:24:20,S-0426,U-DA7E,DEVOLVER,D,0010069978830,50 best jobs for your personality,acbk,najob,sintético
+1932,2011-04-13 00:24:20,S-0426,U-DA7E,MULTA,M,0010069978830,50 best jobs for your personality,acbk,najob,sintético
+1933,2011-04-14 00:24:20,S-0426,U-DA7E,RESERVAR,R,0010069978830,50 best jobs for your personality,acbk,najob,sintético
+1934,2013-09-06 20:06:00,S-0427,U-4867,RESERVAR,R,0010067008325,royal wedding William Catherine,acdvd,nadvdnf,sintético
+1935,2013-09-07 13:06:00,S-0427,U-4867,PRESTAR,P,0010067008325,royal wedding William Catherine,acdvd,nadvdnf,real
+1936,2013-09-20 09:38:58,S-0427,U-4867,RENOVAR,N,0010067008325,royal wedding William Catherine,acdvd,nadvdnf,sintético
+1937,2013-10-03 06:11:57,S-0427,U-4867,DEVOLVER,D,0010067008325,royal wedding William Catherine,acdvd,nadvdnf,sintético
+1938,2011-01-23 22:29:00,S-0428,U-F038,DEVOLVER,D,0010060077715,Gone baby gone,acdvd,nadvd,sintético
+1939,2011-01-24 12:29:00,S-0428,U-F038,PRESTAR,P,0010060077715,Gone baby gone,acdvd,nadvd,real
+1940,2011-02-06 14:06:01,S-0428,U-F038,RENOVAR,N,0010060077715,Gone baby gone,acdvd,nadvd,sintético
+1941,2011-02-19 15:43:02,S-0428,U-F038,DEVOLVER,D,0010060077715,Gone baby gone,acdvd,nadvd,sintético
+1942,2011-02-20 15:43:02,S-0428,U-F038,MULTA,M,0010060077715,Gone baby gone,acdvd,nadvd,sintético
+1943,2011-02-21 15:43:02,S-0428,U-F038,RESERVAR,R,0010060077715,Gone baby gone,acdvd,nadvd,sintético
+1944,2013-12-01 03:50:00,S-0429,U-EFDE,RESERVAR,R,0010073639196,Laverne Shirley The fifth season,acdvd,nadvd,sintético
+1945,2013-12-01 14:50:00,S-0429,U-EFDE,PRESTAR,P,0010073639196,Laverne Shirley The fifth season,acdvd,nadvd,real
+1946,2013-12-10 09:31:56,S-0429,U-EFDE,RENOVAR,N,0010073639196,Laverne Shirley The fifth season,acdvd,nadvd,sintético
+1947,2013-12-19 04:13:52,S-0429,U-EFDE,DEVOLVER,D,0010073639196,Laverne Shirley The fifth season,acdvd,nadvd,sintético
+1948,2012-02-13 17:57:00,S-0430,U-BFCA,RESERVAR,R,0010067395615,Inside job,acdvd,cadvdnf,sintético
+1949,2012-02-15 19:57:00,S-0430,U-BFCA,PRESTAR,P,0010067395615,Inside job,acdvd,cadvdnf,real
+1950,2012-02-19 01:50:47,S-0430,U-BFCA,RENOVAR,N,0010067395615,Inside job,acdvd,cadvdnf,sintético
+1951,2012-02-22 07:44:34,S-0430,U-BFCA,RENOVAR,N,0010067395615,Inside job,acdvd,cadvdnf,sintético
+1952,2012-02-25 13:38:22,S-0430,U-BFCA,DEVOLVER,D,0010067395615,Inside job,acdvd,cadvdnf,sintético
+1953,2012-02-26 13:38:22,S-0430,U-BFCA,MULTA,M,0010067395615,Inside job,acdvd,cadvdnf,sintético
+1954,2012-02-27 13:38:22,S-0430,U-BFCA,PAGAR_MULTA,G,0010067395615,Inside job,acdvd,cadvdnf,sintético
+1955,2013-04-30 11:40:00,S-0431,U-F738,PRESTAR,P,0010074603977,My rhinoceros,jcbk,ncpic,real
+1956,2013-05-02 23:24:00,S-0431,U-F738,RENOVAR,N,0010074603977,My rhinoceros,jcbk,ncpic,sintético
+1957,2013-05-05 11:08:01,S-0431,U-F738,RENOVAR,N,0010074603977,My rhinoceros,jcbk,ncpic,sintético
+1958,2013-05-07 22:52:02,S-0431,U-F738,DEVOLVER,D,0010074603977,My rhinoceros,jcbk,ncpic,sintético
+1959,2011-12-01 17:48:00,S-0432,U-8AC3,PRESTAR,P,0010074615963,Boomerang travels in the new Third World,acbk,canf,real
+1960,2011-12-17 14:41:21,S-0432,U-8AC3,RENOVAR,N,0010074615963,Boomerang travels in the new Third World,acbk,canf,sintético
+1961,2012-01-02 11:34:42,S-0432,U-8AC3,DEVOLVER,D,0010074615963,Boomerang travels in the new Third World,acbk,canf,sintético
+1962,2012-01-04 17:35:00,S-0432,U-8AC3,PRESTAR,P,0010074615963,Boomerang travels in the new Third World,acbk,canf,real
+1963,2012-01-11 07:49:40,S-0432,U-8AC3,RENOVAR,N,0010074615963,Boomerang travels in the new Third World,acbk,canf,sintético
+1964,2012-01-17 22:04:20,S-0432,U-8AC3,RENOVAR,N,0010074615963,Boomerang travels in the new Third World,acbk,canf,sintético
+1965,2012-01-24 12:19:00,S-0432,U-8AC3,DEVOLVER,D,0010074615963,Boomerang travels in the new Third World,acbk,canf,sintético
+1966,2013-02-28 05:42:00,S-0433,U-2958,RESERVAR,R,0010076575389,All there is love stories from StoryCorps,acbk,calpnf,sintético
+1967,2013-03-01 09:42:00,S-0433,U-2958,PRESTAR,P,0010076575389,All there is love stories from StoryCorps,acbk,calpnf,real
+1968,2013-04-01 23:52:24,S-0433,U-2958,DEVOLVER,D,0010076575389,All there is love stories from StoryCorps,acbk,calpnf,sintético
+1969,2013-04-02 23:52:24,S-0433,U-2958,MULTA,M,0010076575389,All there is love stories from StoryCorps,acbk,calpnf,sintético
+1970,2013-04-03 23:52:24,S-0433,U-2958,RESERVAR,R,0010076575389,All there is love stories from StoryCorps,acbk,calpnf,sintético
+1971,2012-09-22 14:04:00,S-0434,U-87D8,PRESTAR,P,0010068208320,Four thieves gone the Robbinsville sessions,accd,nacd,real
+1972,2012-10-28 22:57:51,S-0434,U-87D8,DEVOLVER,D,0010068208320,Four thieves gone the Robbinsville sessions,accd,nacd,sintético
+1973,2012-10-29 22:57:51,S-0434,U-87D8,MULTA,M,0010068208320,Four thieves gone the Robbinsville sessions,accd,nacd,sintético
+1974,2012-10-30 22:57:51,S-0434,U-87D8,PAGAR_MULTA,G,0010068208320,Four thieves gone the Robbinsville sessions,accd,nacd,sintético
+1975,2013-08-12 16:36:00,S-0435,U-1AE8,PRESTAR,P,0010073695990,Everything you need to know about frogs and other slippery creatures,jcbk,ncnf,real
+1976,2013-08-23 00:18:05,S-0435,U-1AE8,RENOVAR,N,0010073695990,Everything you need to know about frogs and other slippery creatures,jcbk,ncnf,sintético
+1977,2013-09-02 08:00:10,S-0435,U-1AE8,RENOVAR,N,0010073695990,Everything you need to know about frogs and other slippery creatures,jcbk,ncnf,sintético
+1978,2013-09-12 15:42:16,S-0435,U-1AE8,DEVOLVER,D,0010073695990,Everything you need to know about frogs and other slippery creatures,jcbk,ncnf,sintético
+1979,2013-09-13 15:42:16,S-0435,U-1AE8,MULTA,M,0010073695990,Everything you need to know about frogs and other slippery creatures,jcbk,ncnf,sintético
+1980,2013-09-14 15:42:16,S-0435,U-1AE8,RESERVAR,R,0010073695990,Everything you need to know about frogs and other slippery creatures,jcbk,ncnf,sintético
+1981,2011-09-30 10:27:00,S-0436,U-2322,RESERVAR,R,0010074371740,Misfit,acbk,cyfic,sintético
+1982,2011-10-01 09:27:00,S-0436,U-2322,MULTA,M,0010074371740,Misfit,acbk,cyfic,sintético
+1983,2011-10-01 11:27:00,S-0436,U-2322,PRESTAR,P,0010074371740,Misfit,acbk,cyfic,real
+1984,2011-10-14 14:14:47,S-0436,U-2322,DEVOLVER,D,0010074371740,Misfit,acbk,cyfic,sintético
+1985,2012-01-08 12:52:00,S-0437,U-EB2D,RESERVAR,R,0010061676127,rather curious engagement,acbk,nafic,sintético
+1986,2012-01-10 12:52:00,S-0437,U-EB2D,PRESTAR,P,0010061676127,rather curious engagement,acbk,nafic,real
+1987,2012-01-17 21:39:13,S-0437,U-EB2D,RENOVAR,N,0010061676127,rather curious engagement,acbk,nafic,sintético
+1988,2012-01-25 06:26:27,S-0437,U-EB2D,RENOVAR,N,0010061676127,rather curious engagement,acbk,nafic,sintético
+1989,2012-02-01 15:13:41,S-0437,U-EB2D,DEVOLVER,D,0010061676127,rather curious engagement,acbk,nafic,sintético
+1990,2013-01-13 09:43:00,S-0438,U-1EA3,RESERVAR,R,0010070379697,Glitter and doom live,accd,nacd,sintético
+1991,2013-01-14 16:43:00,S-0438,U-1EA3,PRESTAR,P,0010070379697,Glitter and doom live,accd,nacd,real
+1992,2013-02-10 10:32:54,S-0438,U-1EA3,DEVOLVER,D,0010070379697,Glitter and doom live,accd,nacd,sintético
+1993,2013-02-11 10:32:54,S-0438,U-1EA3,MULTA,M,0010070379697,Glitter and doom live,accd,nacd,sintético
+1994,2013-02-12 10:32:54,S-0438,U-1EA3,PAGAR_MULTA,G,0010070379697,Glitter and doom live,accd,nacd,sintético
+1995,2013-06-27 02:51:00,S-0439,U-8DB1,RESERVAR,R,0010069540291,scariest monster in the world,jcbk,ncpic,sintético
+1996,2013-06-29 15:51:00,S-0439,U-8DB1,PRESTAR,P,0010069540291,scariest monster in the world,jcbk,ncpic,real
+1997,2013-07-03 22:15:15,S-0439,U-8DB1,RENOVAR,N,0010069540291,scariest monster in the world,jcbk,ncpic,sintético
+1998,2013-07-08 04:39:30,S-0439,U-8DB1,RENOVAR,N,0010069540291,scariest monster in the world,jcbk,ncpic,sintético
+1999,2013-07-12 11:03:46,S-0439,U-8DB1,DEVOLVER,D,0010069540291,scariest monster in the world,jcbk,ncpic,sintético
+2000,2012-10-09 22:32:00,S-0440,U-DE56,RESERVAR,R,0010064097453,One boy,jcbk,ncpic,sintético
+2001,2012-10-12 15:32:00,S-0440,U-DE56,PRESTAR,P,0010064097453,One boy,jcbk,ncpic,real
+2002,2012-10-26 17:35:33,S-0440,U-DE56,DEVOLVER,D,0010064097453,One boy,jcbk,ncpic,sintético
+2003,2012-06-21 06:33:00,S-0441,U-34AD,RESERVAR,R,0010073040874,Science play beginning discoveries for 2 to 6 year olds,jcbk,ncnf,sintético
+2004,2012-06-21 21:33:00,S-0441,U-34AD,DEVOLVER,D,0010073040874,Science play beginning discoveries for 2 to 6 year olds,jcbk,ncnf,sintético
+2005,2012-06-22 11:33:00,S-0441,U-34AD,PRESTAR,P,0010073040874,Science play beginning discoveries for 2 to 6 year olds,jcbk,ncnf,real
+2006,2012-06-30 23:11:15,S-0441,U-34AD,RENOVAR,N,0010073040874,Science play beginning discoveries for 2 to 6 year olds,jcbk,ncnf,sintético
+2007,2012-07-09 10:49:31,S-0441,U-34AD,DEVOLVER,D,0010073040874,Science play beginning discoveries for 2 to 6 year olds,jcbk,ncnf,sintético
+2008,2011-05-03 07:07:00,S-0442,U-F038,RESERVAR,R,0010070251714,Symphony no 6,accd,nacd,sintético
+2009,2011-05-04 19:07:00,S-0442,U-F038,PRESTAR,P,0010070251714,Symphony no 6,accd,nacd,real
+2010,2011-05-29 04:35:27,S-0442,U-F038,DEVOLVER,D,0010070251714,Symphony no 6,accd,nacd,sintético
+2011,2013-02-18 11:24:00,S-0443,U-994E,RESERVAR,R,0010072546996,Little Lulus pal Tubby Vol 1 The castaway and other stories,jcbk,nccomic,sintético
+2012,2013-02-19 19:24:00,S-0443,U-994E,PRESTAR,P,0010072546996,Little Lulus pal Tubby Vol 1 The castaway and other stories,jcbk,nccomic,real
+2013,2013-03-17 23:57:10,S-0443,U-994E,DEVOLVER,D,0010072546996,Little Lulus pal Tubby Vol 1 The castaway and other stories,jcbk,nccomic,sintético
+2014,2013-03-18 23:57:10,S-0443,U-994E,MULTA,M,0010072546996,Little Lulus pal Tubby Vol 1 The castaway and other stories,jcbk,nccomic,sintético
+2015,2013-03-19 23:57:10,S-0443,U-994E,RESERVAR,R,0010072546996,Little Lulus pal Tubby Vol 1 The castaway and other stories,jcbk,nccomic,sintético
+2016,2013-04-19 18:48:00,S-0444,U-980B,RESERVAR,R,0010068426765,Lost at sea,accd,cacd,sintético
+2017,2013-04-22 18:48:00,S-0444,U-980B,PRESTAR,P,0010068426765,Lost at sea,accd,cacd,real
+2018,2013-05-24 02:25:01,S-0444,U-980B,DEVOLVER,D,0010068426765,Lost at sea,accd,cacd,sintético
+2019,2012-08-13 03:48:00,S-0445,U-EA6C,RESERVAR,R,0010066951723,Dirty jeans and mudslide hymns,accd,nacd,sintético
+2020,2012-08-14 19:48:00,S-0445,U-EA6C,PRESTAR,P,0010066951723,Dirty jeans and mudslide hymns,accd,nacd,real
+2021,2012-08-18 17:26:09,S-0445,U-EA6C,RENOVAR,N,0010066951723,Dirty jeans and mudslide hymns,accd,nacd,sintético
+2022,2012-08-22 15:04:18,S-0445,U-EA6C,DEVOLVER,D,0010066951723,Dirty jeans and mudslide hymns,accd,nacd,sintético
+2023,2012-08-23 15:04:18,S-0445,U-EA6C,MULTA,M,0010066951723,Dirty jeans and mudslide hymns,accd,nacd,sintético
+2024,2012-08-24 15:04:18,S-0445,U-EA6C,PAGAR_MULTA,G,0010066951723,Dirty jeans and mudslide hymns,accd,nacd,sintético
+2025,2012-10-19 19:02:00,S-0446,U-725C,RESERVAR,R,0010074935767,Rudy,acdvd,nadvd,sintético
+2026,2012-10-20 14:02:00,S-0446,U-725C,PRESTAR,P,0010074935767,Rudy,acdvd,nadvd,real
+2027,2012-10-23 02:21:47,S-0446,U-725C,RENOVAR,N,0010074935767,Rudy,acdvd,nadvd,sintético
+2028,2012-10-25 14:41:34,S-0446,U-725C,RENOVAR,N,0010074935767,Rudy,acdvd,nadvd,sintético
+2029,2012-10-28 03:01:21,S-0446,U-725C,RENOVAR,N,0010074935767,Rudy,acdvd,nadvd,sintético
+2030,2012-10-30 15:21:08,S-0446,U-725C,DEVOLVER,D,0010074935767,Rudy,acdvd,nadvd,sintético
+2031,2011-10-15 13:08:00,S-0447,U-316F,PRESTAR,P,0010074154161,Percys chocolate crunch and other Thomas the tank engine stories,jcbk,ncpic,real
+2032,2011-10-18 01:44:38,S-0447,U-316F,RENOVAR,N,0010074154161,Percys chocolate crunch and other Thomas the tank engine stories,jcbk,ncpic,sintético
+2033,2011-10-20 14:21:17,S-0447,U-316F,RENOVAR,N,0010074154161,Percys chocolate crunch and other Thomas the tank engine stories,jcbk,ncpic,sintético
+2034,2011-10-23 02:57:56,S-0447,U-316F,DEVOLVER,D,0010074154161,Percys chocolate crunch and other Thomas the tank engine stories,jcbk,ncpic,sintético
+2035,2013-05-19 13:51:00,S-0448,U-B651,RESERVAR,R,0010062837355,Tor a prehistoric odyssey,acbk,nanf,sintético
+2036,2013-05-20 18:51:00,S-0448,U-B651,PRESTAR,P,0010062837355,Tor a prehistoric odyssey,acbk,nanf,real
+2037,2013-05-31 13:24:42,S-0448,U-B651,RENOVAR,N,0010062837355,Tor a prehistoric odyssey,acbk,nanf,sintético
+2038,2013-06-11 07:58:24,S-0448,U-B651,DEVOLVER,D,0010062837355,Tor a prehistoric odyssey,acbk,nanf,sintético
+2039,2011-03-07 16:16:00,S-0449,U-04D7,PRESTAR,P,0010069888773,One fish two fish red fish blue fish,jcbk,ncrdr,real
+2040,2011-03-12 20:06:17,S-0449,U-04D7,RENOVAR,N,0010069888773,One fish two fish red fish blue fish,jcbk,ncrdr,sintético
+2041,2011-03-17 23:56:34,S-0449,U-04D7,RENOVAR,N,0010069888773,One fish two fish red fish blue fish,jcbk,ncrdr,sintético
+2042,2011-03-23 03:46:51,S-0449,U-04D7,RENOVAR,N,0010069888773,One fish two fish red fish blue fish,jcbk,ncrdr,sintético
+2043,2011-03-28 07:37:08,S-0449,U-04D7,RENOVAR,N,0010069888773,One fish two fish red fish blue fish,jcbk,ncrdr,sintético
+2044,2011-04-02 11:27:25,S-0449,U-04D7,DEVOLVER,D,0010069888773,One fish two fish red fish blue fish,jcbk,ncrdr,sintético
+2045,2011-04-03 11:27:25,S-0449,U-04D7,MULTA,M,0010069888773,One fish two fish red fish blue fish,jcbk,ncrdr,sintético
+2046,2011-04-04 11:27:25,S-0449,U-04D7,RESERVAR,R,0010069888773,One fish two fish red fish blue fish,jcbk,ncrdr,sintético
+2047,2011-01-29 14:43:00,S-0450,U-E727,RESERVAR,R,0010070976260,Primeval Volume two,acdvd,nadvd,sintético
+2048,2011-01-31 19:43:00,S-0450,U-E727,PRESTAR,P,0010070976260,Primeval Volume two,acdvd,nadvd,real
+2049,2011-02-13 14:42:43,S-0450,U-E727,DEVOLVER,D,0010070976260,Primeval Volume two,acdvd,nadvd,sintético
+2050,2011-02-14 17:03:00,S-0450,U-E727,PRESTAR,P,0010070976260,Primeval Volume two,acdvd,nadvd,real
+2051,2011-02-21 08:12:09,S-0450,U-E727,DEVOLVER,D,0010070976260,Primeval Volume two,acdvd,nadvd,sintético
+2052,2011-06-28 20:17:00,S-0451,U-413E,RESERVAR,R,0010063581408,Barrio,acdvd,nadvd,sintético
+2053,2011-06-30 17:17:00,S-0451,U-413E,PRESTAR,P,0010063581408,Barrio,acdvd,nadvd,real
+2054,2011-07-05 11:12:39,S-0451,U-413E,RENOVAR,N,0010063581408,Barrio,acdvd,nadvd,sintético
+2055,2011-07-10 05:08:18,S-0451,U-413E,RENOVAR,N,0010063581408,Barrio,acdvd,nadvd,sintético
+2056,2011-07-14 23:03:57,S-0451,U-413E,RENOVAR,N,0010063581408,Barrio,acdvd,nadvd,sintético
+2057,2011-07-19 16:59:36,S-0451,U-413E,DEVOLVER,D,0010063581408,Barrio,acdvd,nadvd,sintético
+2058,2013-10-30 16:27:00,S-0452,U-6A2C,PRESTAR,P,0000102226776,Legends of Charlemagne,jcbk,ccfft,real
+2059,2013-11-04 17:54:02,S-0452,U-6A2C,RENOVAR,N,0000102226776,Legends of Charlemagne,jcbk,ccfft,sintético
+2060,2013-11-09 19:21:04,S-0452,U-6A2C,RENOVAR,N,0000102226776,Legends of Charlemagne,jcbk,ccfft,sintético
+2061,2013-11-14 20:48:06,S-0452,U-6A2C,RENOVAR,N,0000102226776,Legends of Charlemagne,jcbk,ccfft,sintético
+2062,2013-11-19 22:15:09,S-0452,U-6A2C,DEVOLVER,D,0000102226776,Legends of Charlemagne,jcbk,ccfft,sintético
+2063,2011-04-01 10:14:00,S-0453,U-980B,MULTA,M,0010067698927,Nell,acdvd,nadvd,sintético
+2064,2011-04-01 12:14:00,S-0453,U-980B,PRESTAR,P,0010067698927,Nell,acdvd,nadvd,real
+2065,2011-04-09 07:05:27,S-0453,U-980B,RENOVAR,N,0010067698927,Nell,acdvd,nadvd,sintético
+2066,2011-04-17 01:56:54,S-0453,U-980B,RENOVAR,N,0010067698927,Nell,acdvd,nadvd,sintético
+2067,2011-04-24 20:48:21,S-0453,U-980B,DEVOLVER,D,0010067698927,Nell,acdvd,nadvd,sintético
+2068,2013-09-18 03:34:00,S-0454,U-90C6,RESERVAR,R,0010077092251,Captain Underpants and the terrifying return of Tippy Tinkletrousers the ninth epic novel,jcbk,ncnew,sintético
+2069,2013-09-18 19:34:00,S-0454,U-90C6,PRESTAR,P,0010077092251,Captain Underpants and the terrifying return of Tippy Tinkletrousers the ninth epic novel,jcbk,ncnew,real
+2070,2013-09-30 18:28:53,S-0454,U-90C6,RENOVAR,N,0010077092251,Captain Underpants and the terrifying return of Tippy Tinkletrousers the ninth epic novel,jcbk,ncnew,sintético
+2071,2013-10-12 17:23:46,S-0454,U-90C6,DEVOLVER,D,0010077092251,Captain Underpants and the terrifying return of Tippy Tinkletrousers the ninth epic novel,jcbk,ncnew,sintético
+2072,2013-01-22 16:12:00,S-0455,U-2159,PRESTAR,P,0010067331438,Epic,accd,nacd,real
+2073,2013-01-26 16:30:26,S-0455,U-2159,RENOVAR,N,0010067331438,Epic,accd,nacd,sintético
+2074,2013-01-30 16:48:53,S-0455,U-2159,RENOVAR,N,0010067331438,Epic,accd,nacd,sintético
+2075,2013-02-03 17:07:20,S-0455,U-2159,DEVOLVER,D,0010067331438,Epic,accd,nacd,sintético
+2076,2013-02-04 17:07:20,S-0455,U-2159,MULTA,M,0010067331438,Epic,accd,nacd,sintético
+2077,2013-02-05 17:07:20,S-0455,U-2159,RESERVAR,R,0010067331438,Epic,accd,nacd,sintético
+2078,2011-04-25 08:35:00,S-0456,U-47C6,RESERVAR,R,0010069641396,Olive Kitteridge,accd,cabocd,sintético
+2079,2011-04-27 15:35:00,S-0456,U-47C6,PRESTAR,P,0010069641396,Olive Kitteridge,accd,cabocd,real
+2080,2011-05-05 19:08:04,S-0456,U-47C6,DEVOLVER,D,0010069641396,Olive Kitteridge,accd,cabocd,sintético
+2081,2011-05-07 10:51:00,S-0457,U-CD40,PRESTAR,P,0010056356040,Gaining the truth about life after eating disorders,acbk,nanf,real
+2082,2011-05-15 13:33:16,S-0457,U-CD40,RENOVAR,N,0010056356040,Gaining the truth about life after eating disorders,acbk,nanf,sintético
+2083,2011-05-23 16:15:33,S-0457,U-CD40,RENOVAR,N,0010056356040,Gaining the truth about life after eating disorders,acbk,nanf,sintético
+2084,2011-05-31 18:57:49,S-0457,U-CD40,DEVOLVER,D,0010056356040,Gaining the truth about life after eating disorders,acbk,nanf,sintético
+2085,2011-10-17 14:27:00,S-0458,U-3FF3,MULTA,M,0010067940956,My sisters keeper,acdvd,nadvd,sintético
+2086,2011-10-17 16:27:00,S-0458,U-3FF3,PRESTAR,P,0010067940956,My sisters keeper,acdvd,nadvd,real
+2087,2011-10-25 07:08:37,S-0458,U-3FF3,RENOVAR,N,0010067940956,My sisters keeper,acdvd,nadvd,sintético
+2088,2011-11-01 21:50:15,S-0458,U-3FF3,RENOVAR,N,0010067940956,My sisters keeper,acdvd,nadvd,sintético
+2089,2011-11-09 12:31:52,S-0458,U-3FF3,DEVOLVER,D,0010067940956,My sisters keeper,acdvd,nadvd,sintético
+2090,2013-09-20 02:12:00,S-0459,U-F0E2,RESERVAR,R,0010078088381,construction alphabet book,jcbk,ncpic,sintético
+2091,2013-09-21 14:12:00,S-0459,U-F0E2,MULTA,M,0010078088381,construction alphabet book,jcbk,ncpic,sintético
+2092,2013-09-21 16:12:00,S-0459,U-F0E2,PRESTAR,P,0010078088381,construction alphabet book,jcbk,ncpic,real
+2093,2013-10-06 22:20:38,S-0459,U-F0E2,DEVOLVER,D,0010078088381,construction alphabet book,jcbk,ncpic,sintético
+2094,2011-02-15 05:45:00,S-0460,U-1682,RESERVAR,R,0010055950090,Uncataloged Folder or Bag LCY,ucfold,nafold,sintético
+2095,2011-02-16 13:45:00,S-0460,U-1682,PRESTAR,P,0010055950090,Uncataloged Folder or Bag LCY,ucfold,nafold,real
+2096,2011-03-20 11:15:44,S-0460,U-1682,DEVOLVER,D,0010055950090,Uncataloged Folder or Bag LCY,ucfold,nafold,sintético

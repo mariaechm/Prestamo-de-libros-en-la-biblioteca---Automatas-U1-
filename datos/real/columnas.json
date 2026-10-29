@@ -1,0 +1,800 @@
+[ {
+  "id" : 294376458,
+  "name" : "ID",
+  "dataTypeName" : "text",
+  "description" : "The ID of the data row.",
+  "fieldName" : "id",
+  "position" : 1,
+  "renderTypeName" : "text",
+  "tableColumnId" : 45094940,
+  "width" : 100,
+  "cachedContents" : {
+    "largest" : "201908111801000010091285816",
+    "non_null" : "102735200",
+    "null" : "0",
+    "top" : [ {
+      "item" : "201705121222000010090224535",
+      "count" : "2"
+    }, {
+      "item" : "201705121241000010082628610",
+      "count" : "2"
+    }, {
+      "item" : "201705121212000010087593330",
+      "count" : "2"
+    }, {
+      "item" : "201705121222000010090138511",
+      "count" : "2"
+    }, {
+      "item" : "201705121230000010089973977",
+      "count" : "2"
+    }, {
+      "item" : "201705121241000010078064218",
+      "count" : "2"
+    }, {
+      "item" : "201705121206000010083672401",
+      "count" : "2"
+    }, {
+      "item" : "201705121212000010087463476",
+      "count" : "2"
+    }, {
+      "item" : "201705121216000010089720808",
+      "count" : "2"
+    }, {
+      "item" : "201705121222000010090135236",
+      "count" : "2"
+    }, {
+      "item" : "201705121227000010072832040",
+      "count" : "2"
+    }, {
+      "item" : "201705121230000010089893985",
+      "count" : "2"
+    }, {
+      "item" : "201705121237000010089849805",
+      "count" : "2"
+    }, {
+      "item" : "201705121241000010072372955",
+      "count" : "2"
+    }, {
+      "item" : "201705121202000010083946441",
+      "count" : "2"
+    }, {
+      "item" : "201705121206000010083350180",
+      "count" : "2"
+    }, {
+      "item" : "201705121210000010059254242",
+      "count" : "2"
+    }, {
+      "item" : "201705121212000010087113204",
+      "count" : "2"
+    }, {
+      "item" : "201705121215000010074464347",
+      "count" : "2"
+    }, {
+      "item" : "201705121216000010089618184",
+      "count" : "2"
+    } ],
+    "smallest" : "200504130800000010050131472",
+    "count" : "108917971",
+    "cardinality" : "102673229"
+  },
+  "format" : { }
+}, {
+  "id" : 294375379,
+  "name" : "CheckoutYear",
+  "dataTypeName" : "number",
+  "description" : "The 4-digit year of checkout for this record.",
+  "fieldName" : "checkoutyear",
+  "position" : 2,
+  "renderTypeName" : "number",
+  "tableColumnId" : 45094781,
+  "width" : 244,
+  "cachedContents" : {
+    "largest" : "2021",
+    "non_null" : "108909268",
+    "null" : "0",
+    "top" : [ {
+      "item" : "2009",
+      "count" : "9035838"
+    }, {
+      "item" : "2010",
+      "count" : "8425046"
+    }, {
+      "item" : "2008",
+      "count" : "8374541"
+    }, {
+      "item" : "2013",
+      "count" : "7864260"
+    }, {
+      "item" : "2011",
+      "count" : "7784795"
+    }, {
+      "item" : "2014",
+      "count" : "7416879"
+    }, {
+      "item" : "2012",
+      "count" : "7299124"
+    }, {
+      "item" : "2007",
+      "count" : "7092007"
+    }, {
+      "item" : "2015",
+      "count" : "6871626"
+    }, {
+      "item" : "2006",
+      "count" : "6582479"
+    }, {
+      "item" : "2016",
+      "count" : "6404830"
+    }, {
+      "item" : "2017",
+      "count" : "6213798"
+    }, {
+      "item" : "2018",
+      "count" : "6020702"
+    }, {
+      "item" : "2019",
+      "count" : "5703704"
+    }, {
+      "item" : "2005",
+      "count" : "3794726"
+    }, {
+      "item" : "2021",
+      "count" : "2296485"
+    }, {
+      "item" : "2020",
+      "count" : "1728428"
+    } ],
+    "smallest" : "2005",
+    "count" : "108917971",
+    "cardinality" : "17"
+  },
+  "format" : {
+    "precisionStyle" : "standard",
+    "noCommas" : "true",
+    "align" : "right"
+  }
+}, {
+  "id" : 294375380,
+  "name" : "BibNumber",
+  "dataTypeName" : "number",
+  "description" : "The catalog record number for the individual edition of an item. ",
+  "fieldName" : "bibnumber",
+  "position" : 3,
+  "renderTypeName" : "number",
+  "tableColumnId" : 45094782,
+  "width" : 208,
+  "cachedContents" : {
+    "largest" : "3727758",
+    "non_null" : "108909268",
+    "null" : "0",
+    "top" : [ {
+      "item" : "3030520",
+      "count" : "39654"
+    }, {
+      "item" : "2919580",
+      "count" : "35782"
+    }, {
+      "item" : "1205054",
+      "count" : "22744"
+    }, {
+      "item" : "2469502",
+      "count" : "19034"
+    }, {
+      "item" : "1089875",
+      "count" : "17523"
+    }, {
+      "item" : "2474843",
+      "count" : "17369"
+    }, {
+      "item" : "1090006",
+      "count" : "17299"
+    }, {
+      "item" : "2542732",
+      "count" : "17109"
+    }, {
+      "item" : "2482761",
+      "count" : "16414"
+    }, {
+      "item" : "2474845",
+      "count" : "16291"
+    }, {
+      "item" : "2560429",
+      "count" : "16180"
+    }, {
+      "item" : "2560415",
+      "count" : "16167"
+    }, {
+      "item" : "2472916",
+      "count" : "16146"
+    }, {
+      "item" : "2532278",
+      "count" : "15832"
+    }, {
+      "item" : "2485732",
+      "count" : "15599"
+    }, {
+      "item" : "2569682",
+      "count" : "15308"
+    }, {
+      "item" : "2569703",
+      "count" : "15302"
+    }, {
+      "item" : "2525519",
+      "count" : "15052"
+    }, {
+      "item" : "2472920",
+      "count" : "14700"
+    }, {
+      "item" : "2560425",
+      "count" : "14436"
+    } ],
+    "smallest" : "3",
+    "count" : "108909268",
+    "cardinality" : "1071774"
+  },
+  "format" : {
+    "precisionStyle" : "standard",
+    "noCommas" : "true",
+    "align" : "right"
+  }
+}, {
+  "id" : 294375381,
+  "name" : "ItemBarcode",
+  "dataTypeName" : "text",
+  "description" : "The library barcode number of the physical item. ",
+  "fieldName" : "itembarcode",
+  "position" : 4,
+  "renderTypeName" : "text",
+  "tableColumnId" : 45094783,
+  "width" : 232,
+  "cachedContents" : {
+    "largest" : "1005256037141",
+    "non_null" : "108917971",
+    "null" : "0",
+    "top" : [ {
+      "item" : "0010091523166",
+      "count" : "679"
+    }, {
+      "item" : "0010059206424",
+      "count" : "589"
+    }, {
+      "item" : "0010058921270",
+      "count" : "568"
+    }, {
+      "item" : "0010059206267",
+      "count" : "560"
+    }, {
+      "item" : "0010091523174",
+      "count" : "557"
+    }, {
+      "item" : "0010091433903",
+      "count" : "499"
+    }, {
+      "item" : "0010091731207",
+      "count" : "446"
+    }, {
+      "item" : "0010091381102",
+      "count" : "440"
+    }, {
+      "item" : "0010059206275",
+      "count" : "437"
+    }, {
+      "item" : "0010091433911",
+      "count" : "435"
+    }, {
+      "item" : "0010091523182",
+      "count" : "432"
+    }, {
+      "item" : "0010061919741",
+      "count" : "430"
+    }, {
+      "item" : "0010091433929",
+      "count" : "430"
+    }, {
+      "item" : "0010059206598",
+      "count" : "427"
+    }, {
+      "item" : "0010088204432",
+      "count" : "420"
+    }, {
+      "item" : "0010059206432",
+      "count" : "419"
+    }, {
+      "item" : "0010058921262",
+      "count" : "377"
+    }, {
+      "item" : "0010091433937",
+      "count" : "364"
+    }, {
+      "item" : "0010091381052",
+      "count" : "363"
+    }, {
+      "item" : "0010088204416",
+      "count" : "363"
+    } ],
+    "smallest" : "0000013471668",
+    "count" : "108917971",
+    "cardinality" : "5582471"
+  },
+  "format" : { }
+}, {
+  "id" : 294375382,
+  "name" : "ItemType",
+  "dataTypeName" : "text",
+  "description" : "A code that describes the type of item checked out. (Please see the dataset: \"Integrated Library System (ILS) Data Dictionary\" for code definitions)",
+  "fieldName" : "itemtype",
+  "position" : 5,
+  "renderTypeName" : "text",
+  "tableColumnId" : 45094784,
+  "width" : 196,
+  "cachedContents" : {
+    "largest" : "unk",
+    "non_null" : "108917971",
+    "null" : "0",
+    "top" : [ {
+      "item" : "acbk",
+      "count" : "34803750"
+    }, {
+      "item" : "acdvd",
+      "count" : "26073857"
+    }, {
+      "item" : "jcbk",
+      "count" : "25437387"
+    }, {
+      "item" : "accd",
+      "count" : "13097860"
+    }, {
+      "item" : "jcdvd",
+      "count" : "4667035"
+    }, {
+      "item" : "jccd",
+      "count" : "1370569"
+    }, {
+      "item" : "acvhs",
+      "count" : "1107037"
+    }, {
+      "item" : "pkbknh",
+      "count" : "620291"
+    }, {
+      "item" : "jcvhs",
+      "count" : "368166"
+    }, {
+      "item" : "accas",
+      "count" : "234625"
+    }, {
+      "item" : "ucfold",
+      "count" : "225543"
+    }, {
+      "item" : "dcillb",
+      "count" : "196629"
+    }, {
+      "item" : "acmus",
+      "count" : "154083"
+    }, {
+      "item" : "jckit",
+      "count" : "117138"
+    }, {
+      "item" : "bcbk",
+      "count" : "101149"
+    }, {
+      "item" : "jccas",
+      "count" : "80677"
+    }, {
+      "item" : "acfold",
+      "count" : "45749"
+    }, {
+      "item" : "aceq",
+      "count" : "41808"
+    }, {
+      "item" : "alaptop",
+      "count" : "35337"
+    }, {
+      "item" : "bcdvd",
+      "count" : "29083"
+    } ],
+    "smallest" : "acart",
+    "count" : "108917971",
+    "cardinality" : "80"
+  },
+  "format" : { }
+}, {
+  "id" : 294375383,
+  "name" : "Collection",
+  "dataTypeName" : "text",
+  "description" : "A code that describes the collection of item checked out. (Please see the dataset: \"Integrated Library System (ILS) Data Dictionary\" for code definitions)",
+  "fieldName" : "collection",
+  "position" : 6,
+  "renderTypeName" : "text",
+  "tableColumnId" : 45094785,
+  "width" : 220,
+  "cachedContents" : {
+    "largest" : "walpper",
+    "non_null" : "108917971",
+    "null" : "0",
+    "top" : [ {
+      "item" : "nadvd",
+      "count" : "17744911"
+    }, {
+      "item" : "nanf",
+      "count" : "9749129"
+    }, {
+      "item" : "nacd",
+      "count" : "7871201"
+    }, {
+      "item" : "ncpic",
+      "count" : "7132197"
+    }, {
+      "item" : "canf",
+      "count" : "5231749"
+    }, {
+      "item" : "nafic",
+      "count" : "4738159"
+    }, {
+      "item" : "cadvd",
+      "count" : "4126406"
+    }, {
+      "item" : "ncdvd",
+      "count" : "3598056"
+    }, {
+      "item" : "nadvdnf",
+      "count" : "2934653"
+    }, {
+      "item" : "ncrdr",
+      "count" : "2864466"
+    }, {
+      "item" : "cacd",
+      "count" : "2791215"
+    }, {
+      "item" : "ncfic",
+      "count" : "2499744"
+    }, {
+      "item" : "nanew",
+      "count" : "2168157"
+    }, {
+      "item" : "ncnf",
+      "count" : "1983914"
+    }, {
+      "item" : "nccomic",
+      "count" : "1742005"
+    }, {
+      "item" : "namys",
+      "count" : "1669573"
+    }, {
+      "item" : "cafic",
+      "count" : "1574520"
+    }, {
+      "item" : "nycomic",
+      "count" : "1497654"
+    }, {
+      "item" : "ncef",
+      "count" : "1420487"
+    }, {
+      "item" : "ncnew",
+      "count" : "1352927"
+    } ],
+    "smallest" : "caaero",
+    "count" : "108917971",
+    "cardinality" : "349"
+  },
+  "format" : { }
+}, {
+  "id" : 294375384,
+  "name" : "CallNumber",
+  "dataTypeName" : "text",
+  "description" : "The Dewey Decimal call number for the item. ",
+  "fieldName" : "callnumber",
+  "position" : 7,
+  "renderTypeName" : "text",
+  "tableColumnId" : 45094786,
+  "width" : 220,
+  "cachedContents" : {
+    "largest" : "ZULU DVD YESTERD",
+    "non_null" : "108903642",
+    "null" : "14329",
+    "top" : [ {
+      "item" : "PEAK PICKS",
+      "count" : "570527"
+    }, {
+      "item" : "UNCAT",
+      "count" : "275116"
+    }, {
+      "item" : "J/E MEADOWS",
+      "count" : "219130"
+    }, {
+      "item" : "ER WILLEMS",
+      "count" : "204358"
+    }, {
+      "item" : "J STILTON",
+      "count" : "203406"
+    }, {
+      "item" : "ILL",
+      "count" : "160636"
+    }, {
+      "item" : "J/E OSBORNE",
+      "count" : "159762"
+    }, {
+      "item" : "ER RYLANT",
+      "count" : "152766"
+    }, {
+      "item" : "ER SEUSS",
+      "count" : "137573"
+    }, {
+      "item" : "E SEUSS",
+      "count" : "136453"
+    }, {
+      "item" : "E BROWN",
+      "count" : "115014"
+    }, {
+      "item" : "ER BERENST",
+      "count" : "111857"
+    }, {
+      "item" : "DVD MIDSOME",
+      "count" : "103563"
+    }, {
+      "item" : "ER ARNOLD",
+      "count" : "97094"
+    }, {
+      "item" : "DVD J POKEMON",
+      "count" : "90071"
+    }, {
+      "item" : "J/E PILKEY",
+      "count" : "87809"
+    }, {
+      "item" : "DVD AMERICA",
+      "count" : "87228"
+    }, {
+      "item" : "E WILLEMS",
+      "count" : "82230"
+    }, {
+      "item" : "J HUNTER",
+      "count" : "72309"
+    }, {
+      "item" : "CD 782.42166 N86",
+      "count" : "70626"
+    } ],
+    "smallest" : "0010048916422",
+    "count" : "108917971",
+    "cardinality" : "792966"
+  },
+  "format" : { }
+}, {
+  "id" : 294375385,
+  "name" : "ItemTitle",
+  "dataTypeName" : "text",
+  "description" : "The full title and subtitle of an individual item",
+  "fieldName" : "itemtitle",
+  "position" : 8,
+  "renderTypeName" : "text",
+  "tableColumnId" : 45094787,
+  "width" : 208,
+  "cachedContents" : {
+    "largest" : "嘔",
+    "non_null" : "108017041",
+    "null" : "900930",
+    "top" : [ {
+      "item" : "Greatest hits",
+      "count" : "74662"
+    }, {
+      "item" : "SPL HotSpot connecting Seattle",
+      "count" : "39672"
+    }, {
+      "item" : "Into the wild",
+      "count" : "25342"
+    }, {
+      "item" : "Uncataloged Folder or Bag BAL",
+      "count" : "22744"
+    }, {
+      "item" : "Harry Potter and the half blood prince",
+      "count" : "22690"
+    }, {
+      "item" : "Uncataloged Folder or Bag DWN",
+      "count" : "22652"
+    }, {
+      "item" : "Where the wild things are",
+      "count" : "21638"
+    }, {
+      "item" : "Twilight",
+      "count" : "21457"
+    }, {
+      "item" : "golden compass",
+      "count" : "21019"
+    }, {
+      "item" : "kite runner",
+      "count" : "20931"
+    }, {
+      "item" : "Harry Potter and the sorcerers stone",
+      "count" : "20426"
+    }, {
+      "item" : "No country for old men",
+      "count" : "19886"
+    }, {
+      "item" : "FlexTech Laptops",
+      "count" : "19861"
+    }, {
+      "item" : "Cinderella",
+      "count" : "19729"
+    }, {
+      "item" : "Harry Potter and the Order of the Phoenix",
+      "count" : "19419"
+    }, {
+      "item" : "reader",
+      "count" : "19046"
+    }, {
+      "item" : "Harry Potter and the goblet of fire",
+      "count" : "17853"
+    }, {
+      "item" : "hunger games",
+      "count" : "17807"
+    }, {
+      "item" : "Atonement",
+      "count" : "17532"
+    }, {
+      "item" : "Uncataloged Folder or Bag GWD",
+      "count" : "17524"
+    } ],
+    "smallest" : "_",
+    "count" : "108917971",
+    "cardinality" : "903858"
+  },
+  "format" : { }
+}, {
+  "id" : 294375386,
+  "name" : "Subjects",
+  "dataTypeName" : "text",
+  "description" : "A comma separated list of compound \"Library of Congress Subject Headings\" (LCSH) used in the catalog record. ",
+  "fieldName" : "subjects",
+  "position" : 9,
+  "renderTypeName" : "text",
+  "tableColumnId" : 45094788,
+  "width" : 196,
+  "cachedContents" : {
+    "largest" : "хn tranh music, хn tranh music Arranged, хn b�� music Arranged, Quintets хn tranh violins 2 viola cello, Songs with d�n tranh and percussion",
+    "non_null" : "107252187",
+    "null" : "1665784",
+    "top" : [ {
+      "item" : "Rock music 2001 2010",
+      "count" : "1180829"
+    }, {
+      "item" : "Popular music 2001 2010",
+      "count" : "558130"
+    }, {
+      "item" : "Popular music 2001 2010, Rock music 2001 2010",
+      "count" : "428854"
+    }, {
+      "item" : "Rock music 2011 2020",
+      "count" : "324977"
+    }, {
+      "item" : "Rock music 1991 2000",
+      "count" : "306356"
+    }, {
+      "item" : "Rock music 1971 1980",
+      "count" : "263793"
+    }, {
+      "item" : "Popular music 2011 2020",
+      "count" : "193644"
+    }, {
+      "item" : "Rock music 1981 1990",
+      "count" : "191251"
+    }, {
+      "item" : "Rock music 1961 1970",
+      "count" : "185674"
+    }, {
+      "item" : "Rap Music, Popular music 2001 2010",
+      "count" : "182801"
+    }, {
+      "item" : "Feature films",
+      "count" : "162044"
+    }, {
+      "item" : "Popular music 2011 2020, Rock music 2011 2020",
+      "count" : "144111"
+    }, {
+      "item" : "Video recordings for the hearing impaired, Feature films",
+      "count" : "137256"
+    }, {
+      "item" : "Short stories",
+      "count" : "110114"
+    }, {
+      "item" : "Country music 2001 2010",
+      "count" : "101294"
+    }, {
+      "item" : "Rock music",
+      "count" : "99450"
+    }, {
+      "item" : "Popular music 1991 2000",
+      "count" : "95242"
+    }, {
+      "item" : "Fantasy fiction",
+      "count" : "94929"
+    }, {
+      "item" : "Motion picture music",
+      "count" : "91953"
+    }, {
+      "item" : "Rap Music",
+      "count" : "85649"
+    } ],
+    "smallest" : "101 dalmatians Motion picture Juvenile fiction, Dalmatian dog Juvenile fiction, Dogs Juvenile fiction, Movie novels",
+    "count" : "108917971",
+    "cardinality" : "1179349"
+  },
+  "format" : { }
+}, {
+  "id" : 294375387,
+  "name" : "CheckoutDateTime",
+  "dataTypeName" : "calendar_date",
+  "description" : "Datetime of the checkout",
+  "fieldName" : "checkoutdatetime",
+  "position" : 10,
+  "renderTypeName" : "calendar_date",
+  "tableColumnId" : 45094789,
+  "width" : 292,
+  "cachedContents" : {
+    "largest" : "2021-10-23T18:01:00.000",
+    "non_null" : "108909268",
+    "null" : "0",
+    "top" : [ {
+      "item" : "2020-03-13T10:32:00.000",
+      "count" : "443"
+    }, {
+      "item" : "2020-03-13T10:30:00.000",
+      "count" : "427"
+    }, {
+      "item" : "2020-03-13T10:36:00.000",
+      "count" : "423"
+    }, {
+      "item" : "2020-03-13T10:34:00.000",
+      "count" : "412"
+    }, {
+      "item" : "2020-03-13T11:30:00.000",
+      "count" : "392"
+    }, {
+      "item" : "2020-03-13T10:42:00.000",
+      "count" : "391"
+    }, {
+      "item" : "2020-03-13T10:29:00.000",
+      "count" : "387"
+    }, {
+      "item" : "2020-03-13T11:51:00.000",
+      "count" : "382"
+    }, {
+      "item" : "2020-03-13T11:31:00.000",
+      "count" : "375"
+    }, {
+      "item" : "2020-03-13T11:29:00.000",
+      "count" : "371"
+    }, {
+      "item" : "2020-03-13T10:25:00.000",
+      "count" : "370"
+    }, {
+      "item" : "2020-03-13T11:24:00.000",
+      "count" : "367"
+    }, {
+      "item" : "2020-03-13T10:43:00.000",
+      "count" : "364"
+    }, {
+      "item" : "2020-03-13T10:26:00.000",
+      "count" : "363"
+    }, {
+      "item" : "2020-03-13T10:33:00.000",
+      "count" : "361"
+    }, {
+      "item" : "2020-03-13T11:04:00.000",
+      "count" : "360"
+    }, {
+      "item" : "2020-03-13T10:35:00.000",
+      "count" : "360"
+    }, {
+      "item" : "2020-03-13T11:28:00.000",
+      "count" : "360"
+    }, {
+      "item" : "2020-03-13T11:25:00.000",
+      "count" : "359"
+    }, {
+      "item" : "2020-03-13T10:22:00.000",
+      "count" : "358"
+    } ],
+    "smallest" : "2005-04-13T08:00:00.000",
+    "count" : "108917971",
+    "cardinality" : "3031248"
+  },
+  "format" : { }
+} ]
