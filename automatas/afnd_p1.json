@@ -1,0 +1,98 @@
+{
+ "tipo": "AFND",
+ "estados": [
+  "A0",
+  "A1",
+  "A2",
+  "A3"
+ ],
+ "alfabeto": [
+  "R",
+  "P",
+  "N",
+  "D",
+  "M",
+  "G"
+ ],
+ "inicial": "A0",
+ "finales": [
+  "A3"
+ ],
+ "transiciones": [
+  {
+   "de": "A0",
+   "simbolo": "D",
+   "a": "A0"
+  },
+  {
+   "de": "A0",
+   "simbolo": "G",
+   "a": "A0"
+  },
+  {
+   "de": "A0",
+   "simbolo": "M",
+   "a": "A0"
+  },
+  {
+   "de": "A0",
+   "simbolo": "N",
+   "a": "A0"
+  },
+  {
+   "de": "A0",
+   "simbolo": "N",
+   "a": "A1"
+  },
+  {
+   "de": "A0",
+   "simbolo": "P",
+   "a": "A0"
+  },
+  {
+   "de": "A0",
+   "simbolo": "R",
+   "a": "A0"
+  },
+  {
+   "de": "A1",
+   "simbolo": "N",
+   "a": "A2"
+  },
+  {
+   "de": "A2",
+   "simbolo": "N",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "D",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "G",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "M",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "N",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "P",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "R",
+   "a": "A3"
+  }
+ ]
+}

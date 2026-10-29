@@ -1,0 +1,76 @@
+{
+ "tipo": "AFND",
+ "estados": [
+  "C0",
+  "C1"
+ ],
+ "alfabeto": [
+  "R",
+  "P",
+  "N",
+  "D",
+  "M",
+  "G"
+ ],
+ "inicial": "C0",
+ "finales": [
+  "C1"
+ ],
+ "transiciones": [
+  {
+   "de": "C0",
+   "simbolo": "D",
+   "a": "C1"
+  },
+  {
+   "de": "C0",
+   "simbolo": "G",
+   "a": "C0"
+  },
+  {
+   "de": "C0",
+   "simbolo": "M",
+   "a": "C0"
+  },
+  {
+   "de": "C0",
+   "simbolo": "N",
+   "a": "C0"
+  },
+  {
+   "de": "C0",
+   "simbolo": "R",
+   "a": "C0"
+  },
+  {
+   "de": "C1",
+   "simbolo": "D",
+   "a": "C1"
+  },
+  {
+   "de": "C1",
+   "simbolo": "G",
+   "a": "C1"
+  },
+  {
+   "de": "C1",
+   "simbolo": "M",
+   "a": "C1"
+  },
+  {
+   "de": "C1",
+   "simbolo": "N",
+   "a": "C1"
+  },
+  {
+   "de": "C1",
+   "simbolo": "P",
+   "a": "C1"
+  },
+  {
+   "de": "C1",
+   "simbolo": "R",
+   "a": "C1"
+  }
+ ]
+}

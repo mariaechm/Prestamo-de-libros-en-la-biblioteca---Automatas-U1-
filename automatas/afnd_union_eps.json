@@ -1,0 +1,246 @@
+{
+ "tipo": "AFND",
+ "estados": [
+  "s",
+  "A0",
+  "A1",
+  "A2",
+  "A3",
+  "B0",
+  "B1",
+  "B2",
+  "C0",
+  "C1"
+ ],
+ "alfabeto": [
+  "R",
+  "P",
+  "N",
+  "D",
+  "M",
+  "G"
+ ],
+ "inicial": "s",
+ "finales": [
+  "A3",
+  "B2",
+  "C1"
+ ],
+ "transiciones": [
+  {
+   "de": "A0",
+   "simbolo": "D",
+   "a": "A0"
+  },
+  {
+   "de": "A0",
+   "simbolo": "G",
+   "a": "A0"
+  },
+  {
+   "de": "A0",
+   "simbolo": "M",
+   "a": "A0"
+  },
+  {
+   "de": "A0",
+   "simbolo": "N",
+   "a": "A0"
+  },
+  {
+   "de": "A0",
+   "simbolo": "N",
+   "a": "A1"
+  },
+  {
+   "de": "A0",
+   "simbolo": "P",
+   "a": "A0"
+  },
+  {
+   "de": "A0",
+   "simbolo": "R",
+   "a": "A0"
+  },
+  {
+   "de": "A1",
+   "simbolo": "N",
+   "a": "A2"
+  },
+  {
+   "de": "A2",
+   "simbolo": "N",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "D",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "G",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "M",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "N",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "P",
+   "a": "A3"
+  },
+  {
+   "de": "A3",
+   "simbolo": "R",
+   "a": "A3"
+  },
+  {
+   "de": "B0",
+   "simbolo": "D",
+   "a": "B0"
+  },
+  {
+   "de": "B0",
+   "simbolo": "G",
+   "a": "B0"
+  },
+  {
+   "de": "B0",
+   "simbolo": "M",
+   "a": "B0"
+  },
+  {
+   "de": "B0",
+   "simbolo": "M",
+   "a": "B1"
+  },
+  {
+   "de": "B0",
+   "simbolo": "N",
+   "a": "B0"
+  },
+  {
+   "de": "B0",
+   "simbolo": "P",
+   "a": "B0"
+  },
+  {
+   "de": "B0",
+   "simbolo": "R",
+   "a": "B0"
+  },
+  {
+   "de": "B1",
+   "simbolo": "P",
+   "a": "B2"
+  },
+  {
+   "de": "B2",
+   "simbolo": "D",
+   "a": "B2"
+  },
+  {
+   "de": "B2",
+   "simbolo": "G",
+   "a": "B2"
+  },
+  {
+   "de": "B2",
+   "simbolo": "M",
+   "a": "B2"
+  },
+  {
+   "de": "B2",
+   "simbolo": "N",
+   "a": "B2"
+  },
+  {
+   "de": "B2",
+   "simbolo": "P",
+   "a": "B2"
+  },
+  {
+   "de": "B2",
+   "simbolo": "R",
+   "a": "B2"
+  },
+  {
+   "de": "C0",
+   "simbolo": "D",
+   "a": "C1"
+  },
+  {
+   "de": "C0",
+   "simbolo": "G",
+   "a": "C0"
+  },
+  {
+   "de": "C0",
+   "simbolo": "M",
+   "a": "C0"
+  },
+  {
+   "de": "C0",
+   "simbolo": "N",
+   "a": "C0"
+  },
+  {
+   "de": "C0",
+   "simbolo": "R",
+   "a": "C0"
+  },
+  {
+   "de": "C1",
+   "simbolo": "D",
+   "a": "C1"
+  },
+  {
+   "de": "C1",
+   "simbolo": "G",
+   "a": "C1"
+  },
+  {
+   "de": "C1",
+   "simbolo": "M",
+   "a": "C1"
+  },
+  {
+   "de": "C1",
+   "simbolo": "N",
+   "a": "C1"
+  },
+  {
+   "de": "C1",
+   "simbolo": "P",
+   "a": "C1"
+  },
+  {
+   "de": "C1",
+   "simbolo": "R",
+   "a": "C1"
+  },
+  {
+   "de": "s",
+   "simbolo": "",
+   "a": "A0"
+  },
+  {
+   "de": "s",
+   "simbolo": "",
+   "a": "B0"
+  },
+  {
+   "de": "s",
+   "simbolo": "",
+   "a": "C0"
+  }
+ ]
+}
